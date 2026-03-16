@@ -2,11 +2,11 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Lead+DevOps+and+Support;Cloud+Infrastructure+Architect;Automation+Specialist;CI%2FCD+Pipeline+Expert;Python+%2B+n8n+%2B+Azure+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&lines=Lead+DevOps+and+Support;Azure+%2B+AWS+Cloud+Expert;CI%2FCD+Pipeline+Architect;Docker+Containerization+Ninja;Automation+%2B+Security+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
   <br/>
 
-**🌟 Transforming Operations into Efficiency | Infrastructure Architect | Automation Pioneer 🌟**
+**🌟 Transforming Ideas into Scalable Reality | Infrastructure Architect | Automation Pioneer 🌟**
 
   <br/>
 
@@ -15,32 +15,136 @@
 
 </div>
 
+
 ---
 
 ## 🎯 **About Me**
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Hey there! [cite_start]👋 I'm **Ravi Balani**, a **Lead DevOps and Support Engineer** with 12+ years of overall IT experience. [cite_start]I specialize in bridging the gap between developer agility and operational stability through high-performance CI/CD and cloud-native practices[cite: 8].
+Hey there! 👋 I'm a **Lead DevOps and Support Engineer** who lives and breathes infrastructure automation and high-availability cloud systems!
 
-[cite_start]💼 **By day:** I architect secure and scalable cloud environments on Azure and AWS[cite: 9, 22].
-[cite_start]🔥 **What drives me:** Building resilient, self-healing infrastructure that eliminates manual tasks through advanced automation.
+💼 By day, I architect scalable solutions on **Azure** and **AWS**. By night, I'm building custom automation workflows to eliminate manual tasks and ensure 24/7 system integrity.
+
+🔥 **What drives me**: Building resilient, self-healing infrastructure that scales effortlessly while maintaining security, reliability, and cost optimization!
 
 ```go
 type Engineer struct {
     Name         string
     Role         []string
-    Experience   string
+    Languages    []string
     Passion      string
     CurrentFocus string
 }
 
 me := Engineer{
     Name: "Ravi Balani",
-    Role: []string{"Lead DevOps", "Infrastructure Architect", "Support Lead"},
-    Experience: "12+ Years Total IT | 8+ Years DevOps",
-    Passion: "Automating the mundane and securing the cloud",
-    CurrentFocus: "GitHub Actions + Azure + n8n 🚀",
+    Role: []string{"Lead DevOps", "Cloud Specialist", "Automation Architect"},
+    Languages: []string{"Python", "JavaScript", "Shell", "YAML"},
+    Passion: "Scaling infrastructure with zero manual intervention",
+    CurrentFocus: "CI/CD + n8n Automation + Azure Cloud 🚀",
 }
-💻 Tech Stack & Skills🔤 Programming & Scripting<div align="center"></div>☁️ Cloud Platforms<div align="center"></div>🐳 Container & Infrastructure<div align="center"></div>🔄 CI/CD & Automation<div align="center"></div>🌟 What I Build<table><tr><td width="50%">🚀 Cloud & DevOps Solutions🏗️ CI/CD Pipelines: Automated deployments using GitHub Actions.🐳 Containerization: Standardizing environments with Docker.☁️ Infrastructure: Managing production-grade resources on Azure and AWS.🔐 Security: Implementing vulnerability monitoring and hardening.</td><td width="50%">🛠️ Automation & Support🤖 Workflows: 15+ n8n workflows built to eliminate manual tasks.📊 Observability: Deploying Prometheus and Grafana for system insights.🛠️ L4 Support: Resolving critical production incidents via root cause analysis.🗄️ Databases: Optimizing MSSQL, MySQL, and MongoDB.</td></tr></table>📊 GitHub Statistics<div align="center"><img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRaviBalani%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" /><img width="49%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DRaviBalani%26theme%3Dtokyonight%26hide_border%3Dtrue" /></div>💡 Recent Achievements & Metrics<div align="center">🎯 Metric📈 Achievement🤖 Automation Workflows15+ workflows built using n8n ☁️ Cloud InfrastructureProduction-grade Azure/AWS management 🛠️ Support ExcellenceL4 Production Support Specialist 🚀 Total Experience12+ Years in IT Infrastructure </div>🤝 Let's Connect & Collaborate<div align="center">🚀 Interested in discussing?✨ Cloud optimization | ☁️ CI/CD architecture | 🔄 n8n Automation | 🔐 DevSecOps</div><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>"Scaling infrastructure, securing data, one pipeline at a time..." 💫</div>
-Would you like me to add your specific work history from **Bankai Infotech** or **Joshi Biztech** into this layout as well? [cite: 11, 13]
+
+```
+
+## 💻 **Tech Stack & Skills**
+
+### 🔤 **Programming Languages**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+### ☁️ **Cloud Platforms**
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+### 🐋 **Container & Orchestration**
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+### 🏗️ **Infrastructure as Code**
+
+<div align="center">
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+### 🔄 **CI/CD & Automation**
+
+<div align="center">
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+
+</div>
+
+### 📊 **Monitoring & Observability**
+
+<div align="center">
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+</div>
+
+### 🗄️ **Databases**
+
+<div align="center">
+
+![MSSQL](https://img.shields.io/badge/MSSQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## 🌟 **What I Build**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **DevOps & Cloud Solutions**
+
+- ☁️ **High-Availability Infrastructure** on Microsoft Azure and AWS
+- 🔄 **Automated CI/CD Pipelines** using GitHub Actions and Jenkins
+- 📦 **Containerized Environments** with Docker for consistent deployments
+- 🏗️ **Infrastructure as Code** using Terraform and Ansible
+- 📊 **Full-Stack Observability** with Prometheus, Grafana, and Datadog
+- 🔐 **Cloud Security & Compliance** audits and resource monitoring
+
+</td>
+<td width="50%">
+
+### 🤖 **Automation & Support**
+
+- 🔄 **15+ Low-code Workflows** in n8n for manual task elimination
+- 🚨 **Real-time Alerting** systems for critical infrastructure events
+- 🛠️ **L4 Production Support** and deep root cause analysis (RCA)
+- 🗄️ **Optimized Databases** for MSSQL, MySQL, and MongoDB
+- 📉 **Cost Optimization** strategies to reduce cloud resource spend
+- 🌐 **Scalable Networking** including VPCs, Load Balancers, and VPNs
+
+</td>
+</tr>
+</table>
