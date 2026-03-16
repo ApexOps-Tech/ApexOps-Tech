@@ -7,7 +7,7 @@
 🌟 **Transforming Manual Workflows into Scalable Reality | Infrastructure Strategist | Automation Expert** 🌟
 
 <p align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FApexOps-Tech%2Fvisits&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?user=ApexOps-Tech&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 <a href="https://linkedin.com/in/ravi-balani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:rhbalani92@gmail.com"><img src="https://img.shields.io/badge/Email-rhbalani92%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
 </p>
@@ -19,11 +19,11 @@
 
 </div>
 
-* [cite_start]**Strategic Infrastructure:** Creating and managing scalable cloud resources within Microsoft Azure to support organizational growth. [cite: 12]
+* [cite_start]**Strategic Infrastructure:** Creating and managing scalable cloud resources within Microsoft Azure to support organizational growth[cite: 12].
 * **Automated CI/CD:** Architecting robust pipelines with **GitHub Actions** to streamline software delivery and reduce deployment errors.
 * **Advanced Automation:** Engineered 15+ complex **n8n workflows** to eliminate manual tasks and establish real-time alerting for critical requirements.
 * **FinOps & Security:** Conducting daily audits of cloud and server resources to drive cost optimization and safeguard data integrity.
-* [cite_start]**Database Optimization:** Expert management of MSSQL, MySQL, and MongoDB for high-performance applications. [cite: 12, 16]
+* [cite_start]**Database Optimization:** Expert management of MSSQL, MySQL, and MongoDB for high-performance applications[cite: 12, 16].
 
 ---
 
