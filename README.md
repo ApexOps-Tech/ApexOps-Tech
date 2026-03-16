@@ -164,3 +164,29 @@ me := Engineer{
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ApexOps-Tech&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
+
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=ApexOps-Tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+
+## 💡 **Recent Achievements & Metrics**
+
+<div align="center">
+
+| 🎯 **Metric** | 📈 **Achievement** |
+|---------------|-------------------|
+| 🔄 Automation Workflows | **15+ workflows** using n8n |
+| 🛡️ Professional Experience | **12+ years** in IT & Support |
+| ☁️ DevOps & Cloud Experience | **8+ years** of specialist expertise |
+| ⚡ Infrastructure Management | **24/7 Monitoring** & Auditing |
+| 🔐 Production Incidents | **L4 Critical Support** & RCA |
+| 📊 Uptime SLA | **High availability** for production systems |
+| 🚀 CI/CD Pipelines | **Built & Maintained** with GitHub Actions |
+
+</div>
