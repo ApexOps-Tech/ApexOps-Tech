@@ -7,14 +7,12 @@
 🌟 **Transforming Manual Workflows into Scalable Reality | Infrastructure Strategist | Automation Expert** 🌟
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=ApexOps-Tech&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/ravi-balani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rhbalani92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rhbalani92%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
-  </a>
+<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FApexOps-Tech%2Fvisits&style=flat-square" alt="Profile Views" />
+<a href="https://linkedin.com/in/ravi-balani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:rhbalani92@gmail.com"><img src="https://img.shields.io/badge/Email-rhbalani92%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
 </p>
+
+---
 
 ### 🚀 Professional Impact
 **I specialize in orchestrating cloud infrastructure and automating complex business logic.**
@@ -50,5 +48,5 @@
 
 ---
 <div align="center">
-  <sub>Built with ❤️ and Automation by ApexOps-Tech</sub>
+<sub>Built with ❤️ and Automation by ApexOps-Tech</sub>
 </div>
