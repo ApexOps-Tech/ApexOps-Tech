@@ -190,3 +190,40 @@ me := Engineer{
 | 🚀 CI/CD Pipelines | **Built & Maintained** with GitHub Actions |
 
 </div>
+
+## 🎨 **My DevOps Philosophy**
+
+<div align="center">
+
+```python
+class DevOpsPhilosophy:
+    def __init__(self):
+        self.principles = {
+            "automation": "Leverage n8n and CI/CD to eliminate manual toil",
+            "reliability": "Architect high-availability systems on Azure & AWS",
+            "security": "Implement infrastructure security and compliance audits",
+            "scalability": "Containerize with Docker for consistent growth",
+            "observability": "Utilize full-stack monitoring for proactive resolution",
+            "efficiency": "Optimize cloud resources to balance performance and cost"
+        }
+    
+    def build_infrastructure(self):
+        return "Azure/AWS + Docker + n8n = 🚀"
+```
+
+</div>
+
+## 📈 **Weekly Development Breakdown**
+
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░  48.50%
+JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  16.50%
+YAML         3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  14.55%
+Terraform    2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░  11.00%
+Bash         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   8.45%
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░   1.00%
+```
+<!--END_SECTION:waka-->
+
+---
