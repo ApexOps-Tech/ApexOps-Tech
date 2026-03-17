@@ -248,3 +248,15 @@ Other        15 mins         █░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rhbalani92@gmail.com)
 
 </div>
+
+## 💬 **Random Dev Quote**
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
