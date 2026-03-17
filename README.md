@@ -203,20 +203,6 @@ class DevOpsPhilosophy:
 
 </div>
 
-## 📈 **Weekly Development Breakdown**
-
-<!--START_SECTION:waka-->
-```text
-Python       12 hrs 30 mins  ████████████░░░░░░░░░  48.50%
-JavaScript   4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░  16.50%
-YAML         3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  14.55%
-Terraform    2 hrs 50 mins   ██░░░░░░░░░░░░░░░░░░░  11.00%
-Bash         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   8.45%
-Other        15 mins         █░░░░░░░░░░░░░░░░░░░░   1.00%
-```
-<!--END_SECTION:waka-->
-
----
 
 ## 🤝 **Let's Connect & Collaborate**
 
