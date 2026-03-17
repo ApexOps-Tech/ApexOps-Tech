@@ -237,9 +237,6 @@ class DevOpsPhilosophy:
 
 <div align="center">
 
-
-<div align="center">
-
 ### 🎵 **Currently Vibing To**
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/kittinan/spotify-github-profile)
