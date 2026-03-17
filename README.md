@@ -31,16 +31,16 @@ Hey there! 👋 I'm a **Lead DevOps and Support Engineer** who lives and breathe
 ```go
 type Engineer struct {
     Name         string
-    Role         []string
-    Languages    []string
+    Role         string
+    TechStack    string
     Passion      string
     CurrentFocus string
 }
 
 me := Engineer{
     Name: "Ravi Balani",
-    Role: []string{"Lead DevOps", "Cloud Specialist", "Automation Architect"},
-    Languages: []string{"Python", "JavaScript", "Shell", "YAML"},
+    Role: "Lead DevOps", "Cloud Specialist", "Automation Architect",
+    TechStack: "Azure", "AWS", "Terraform", "n8n", "Docker",
     Passion: "Scaling infrastructure with zero manual intervention",
     CurrentFocus: "CI/CD + n8n Automation + Azure Cloud 🚀",
 }
