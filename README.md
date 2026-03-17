@@ -266,7 +266,7 @@ Other        15 mins         █░░░░░░░░░░░░░░░░
 
 ### 🎵 **Currently Vibing To**
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31l56yya4o74z2jx2hnmgxjvbbaa)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
