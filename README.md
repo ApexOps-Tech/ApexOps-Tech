@@ -260,3 +260,26 @@ Other        15 mins         █░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
+
+
+<div align="center">
+
+### 🎵 **Currently Vibing To**
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31l56yya4o74z2jx2hnmgxjvbbaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+⭐ **Star my repos if you find them useful!** <br/>
+☕ **Powered by coffee and terminal commands** <br/>
+🍕 **Fun fact: I troubleshoot better after pizza!** <br/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+*"Architecting resilient cloud infrastructure, one commit at a time..."* 💫
+
+**Last Updated:** ![](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=%24.updated_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FApexOps-Tech&logo=github&style=flat-square)
+
+</div>
