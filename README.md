@@ -227,3 +227,24 @@ Other        15 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+**🚀 Interested in discussing?**
+
+☁️ High-availability Azure & AWS architecture patterns  
+🔄 Advanced CI/CD & DevSecOps best practices  
+🤖 Low-code automation with n8n & Node-RED  
+📉 Infrastructure cost optimization strategies  
+🛠️ Real-world L4 production incident resolution  
+🔐 Security monitoring & compliance auditing  
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ApexOps-Tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ravi-balani)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rhbalani92@gmail.com)
+
+</div>
